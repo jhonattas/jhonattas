@@ -1,5 +1,5 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=jhonattas&color=transparent" />
+  <img src="https://komarev.com/ghpvc/?username=jhonattas&color=blue" />
  </div>
 <h2 align="center">I don't even know what I am anymore, all I know is that I code</h2>
 
