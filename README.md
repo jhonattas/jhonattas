@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=jhonattas&color=transparent" />
  </div>
 <h2 align="center">I don't even know what I am anymore, all I know is that I code</h2>
-<p align="center"><i>~I'm Jhonattas btw</i></p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattas&show_icons=true&theme=transparent" />
@@ -10,7 +9,6 @@
  </div>
  
  <h3 align="center"><a href="https://jhonattas.com">Jhonattas.com</a></h3>
- <h2 align="center"><a href="https://soucriador.com">Jhonattas.com</a></h3>
 
 <h2 align="center">Social Medias and Contact</h2>
 <div align="center">
