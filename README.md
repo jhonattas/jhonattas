@@ -1,14 +1,12 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=jhonattas&color=blue" />
  </div>
-<h2 align="center">I don't even know what I am anymore, all I know is that I code</h2>
+<h2>I love to learn new things :D</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattas&show_icons=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattas&show_icons=true&theme=transparent&layout=compact&count_private=true" />
  </div>
- 
- <h3 align="center"><a href="https://jhonattas.com">Jhonattas.com</a></h3>
 
 <h3 align="center">Databases</h3>
 <div style="inline_block" align="center">
@@ -94,3 +92,5 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
 </a>                                                           
 </div>
+
+<h3 align="center"><a href="https://jhonattas.com">Jhonattas.com</a></h3>
