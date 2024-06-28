@@ -1,7 +1,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=jhonattas&color=blue" />
  </div>
-<h2>I love to learn new things :D</h2>
+<h2>Day by day discovering a new world</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattas&show_icons=true&theme=transparent" />
